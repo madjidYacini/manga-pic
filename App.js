@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import axios from "axios";
-import { HomeScreen } from "./screens/HomeScreen";
 import { Card } from "react-native-elements";
 import { YellowBox, TouchableOpacity } from "react-native";
 
